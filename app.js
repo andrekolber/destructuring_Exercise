@@ -65,7 +65,7 @@ const obj = {
     }
 }
 
-// const {a, b} = obj.numbers
+const {a, b} = obj.numbers
 
 // ES5 Array Swap
 const arr = [1,2];
